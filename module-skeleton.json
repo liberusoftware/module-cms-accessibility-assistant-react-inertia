@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-accessibility-assistant-react-inertia",
+  "capabilityKey": "liberusoftware/module-cms-accessibility-assistant",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-cms-accessibility-assistant-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/cms/nextjs/accessibility-assistant.md",
+  "presentationPlan": "projects/cms/react/accessibility-assistant.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
